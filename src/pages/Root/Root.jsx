@@ -1,0 +1,23 @@
+import { Outlet } from "react-router";
+import Footer from "../../components/layout/Footer/Footer";
+import Navbar from "../../components/layout/Navbar/Navbar";
+
+const Root = () => {
+  return (
+    <div className="flex flex-col min-h-screen font-inter">
+      <div className="container px-4 md:px-0">
+        <Navbar></Navbar>
+      </div>
+      <div className="grow container">
+        <Outlet></Outlet>
+      </div>
+      <div className="bg-black">
+        <div className="container px-4 md:px-0">
+          <Footer></Footer>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Root;
