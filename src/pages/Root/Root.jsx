@@ -8,7 +8,7 @@ const Root = () => {
       <div className="container px-4 md:px-0">
         <Navbar></Navbar>
       </div>
-      <div className="grow container">
+      <div className="grow bg-[#F5F5F5]">
         <Outlet></Outlet>
       </div>
       <div className="bg-black">
