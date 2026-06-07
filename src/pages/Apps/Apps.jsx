@@ -6,15 +6,15 @@ const Apps = () => {
   const totalApps = allApps.length;
 
   return (
-    <div className="container">
+    <div className="container px-4 md:px-0">
       <div className="mt-10 mb-8 text-center">
         <h1 className="mb-3 font-bold text-4xl">Our All Applications</h1>
-        <p>
+        <p className="px-5 md:px-0">
           Explore All Apps on the Market developed by us. We code for Millions
         </p>
       </div>
       <div>
-        <div className="flex justify-between items-center">
+        <div className="flex flex-col md:flex-row gap-5 md:justify-between items-center">
           <h2 className="font-bold text-xl">
             <span>({totalApps})</span> Apps Found
           </h2>
