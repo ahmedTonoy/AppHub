@@ -21,14 +21,18 @@ const Hero = () => {
         digital experiences that truly make an impact.
       </p>
       <div className="flex justify-center gap-5 mt-3">
-        <button className="btn bg-transparent border-[#627382]">
-          <img className="w-5" src={googlePlay} alt="" />
-          Google Play
-        </button>
-        <button className="btn bg-transparent border-[#627382]">
-          <img className="w-6" src={appStore} alt="" />
-          App Store
-        </button>
+        <a href="https://play.google.com/store/games?hl=en" target="blank">
+          <button className="btn bg-transparent border-[#627382]">
+            <img className="w-5" src={googlePlay} alt="" />
+            Google Play
+          </button>
+        </a>
+        <a href="https://www.apple.com/app-store/" target="blank">
+          <button className="btn bg-transparent border-[#627382]">
+            <img className="w-6" src={appStore} alt="" />
+            App Store
+          </button>
+        </a>
       </div>
     </div>
   );

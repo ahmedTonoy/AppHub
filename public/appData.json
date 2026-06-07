@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/lmG9HlI0awHie0cyBieWXeNjpyXvHPwDBb8MNOVIyp0P8VEh95AiBHtUZSDVR3HLe3A=s512-rw",
+    "title": "ChatGPT - AI Productivity Tool",
+    "companyName": "OpenAI",
+    "id": 1,
+    "description": "ChatGPT is an advanced AI assistant designed to help users with a wide range of tasks, including answering questions, writing content, brainstorming ideas, learning new topics, programming, language translation, and productivity. The application provides access to powerful large language models that can understand natural language and generate detailed and context-aware responses. Students use ChatGPT to understand difficult concepts, summarize documents, practice interview questions, and improve writing skills. Professionals rely on it for drafting emails, generating reports, analyzing information, and automating repetitive tasks. Developers use the app to write code, debug errors, learn frameworks, and explore software engineering concepts. Creative users can generate stories, poems, scripts, and ideas for content creation. ChatGPT also supports voice conversations and image understanding capabilities on supported devices and subscription plans. The interface is simple and intuitive, making it accessible for beginners while providing powerful features for advanced users. The application can maintain context across conversations and adapt responses based on user requirements. It is frequently updated with new features and model improvements to provide better accuracy and usability. ChatGPT is widely used for education, business, research, and everyday productivity. Millions of users around the world rely on the app to save time, learn more effectively, and improve creativity. The app integrates AI capabilities into daily workflows, helping users perform tasks more efficiently. With support for multiple languages and continuously evolving technology, ChatGPT has become one of the most recognized AI applications available on the Google Play Store.",
+    "size": 68,
+    "reviews": 4200000,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 84000 },
+      { "name": "2 star", "count": 126000 },
+      { "name": "3 star", "count": 210000 },
+      { "name": "4 star", "count": 840000 },
+      { "name": "5 star", "count": 2940000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/OgRs2_jLvcyFjQt5UzHnwVLajf0hArvGUO7LHb6Gbuc02yDBGWbnKuAye4jZMxSHDro=s512-rw",
+    "title": "Microsoft Copilot - AI Productivity Tool",
+    "companyName": "Microsoft Corporation",
+    "id": 2,
+    "description": "Microsoft Copilot is an AI assistant developed by Microsoft to help users increase productivity, discover information, generate content, and simplify everyday tasks. Built on advanced artificial intelligence technology, the application provides conversational experiences that allow users to ask questions, receive explanations, and generate ideas in natural language. Copilot is widely used by students, professionals, developers, and content creators who want to work more efficiently. Students use the app to understand subjects, summarize articles, and prepare for exams. Professionals benefit from its ability to assist with email drafting, document creation, meeting preparation, and brainstorming activities. Software developers use Copilot to understand programming concepts, generate code examples, and solve technical challenges. The application also supports creative activities such as writing stories, generating content ideas, and producing visual concepts. Microsoft continuously improves the app with updated AI capabilities and enhanced performance. Copilot integrates with Microsoft's ecosystem and offers a user-friendly interface that enables people to interact naturally with artificial intelligence. Voice input support and multimodal capabilities make the application flexible and convenient for different use cases. The app can provide contextual responses and detailed explanations across various domains, including technology, education, business, and creativity. Millions of users worldwide rely on Copilot to automate repetitive tasks and access information quickly. Its accessibility and advanced AI capabilities have made it one of the leading AI applications available on Android devices. By combining powerful language models with Microsoft's extensive software ecosystem, Copilot helps users become more productive and make better use of artificial intelligence in their daily activities and professional workflows.",
+    "size": 61,
+    "reviews": 950000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 38000 },
+      { "name": "2 star", "count": 57000 },
+      { "name": "3 star", "count": 95000 },
+      { "name": "4 star", "count": 237000 },
+      { "name": "5 star", "count": 523000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/C64IqPWyFoCZzXVxXVl0Y6mliiNlG_sZJsqul-SBvk9ZL0wJHlU0Eho2wvsBHhho0FT5XQtH55RVGerIwXF_MA=s512-rw",
+    "title": "Google Gemini - AI Productivity Tool",
+    "companyName": "Google LLC",
+    "id": 3,
+    "description": "Google Gemini is an AI-powered assistant developed by Google to provide intelligent support for productivity, information discovery, creative tasks, and everyday assistance. The application uses advanced generative AI technology to answer questions, explain concepts, summarize content, generate ideas, and assist users with various activities. Gemini is designed to integrate naturally with Google's ecosystem and can help users manage information more effectively. Students use Gemini for learning, research, note generation, and understanding complex topics. Professionals rely on the app for brainstorming, content creation, document summaries, and task planning. Developers can utilize Gemini to explore programming concepts, generate code snippets, and receive explanations for technical topics. The app supports conversational interactions, allowing users to communicate naturally using text and voice. Gemini can provide detailed explanations, suggest creative ideas, and help users complete tasks faster. The interface is designed with simplicity in mind, making it suitable for users with different levels of technical expertise. Google continuously enhances Gemini with new capabilities and model improvements to deliver more accurate and useful responses. The application supports multiple languages and adapts to different user requirements. Content creators use Gemini for writing assistance and inspiration, while researchers use it to explore information more efficiently. Gemini also emphasizes accessibility and ease of use, making AI technology available to a broad audience. Through its intelligent capabilities and integration with Google's services, Gemini has become one of the leading AI applications on Android devices. Millions of users worldwide depend on the app to improve productivity, creativity, and knowledge acquisition in both personal and professional environments.",
+    "size": 56,
+    "reviews": 1800000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 54000 },
+      { "name": "2 star", "count": 72000 },
+      { "name": "3 star", "count": 144000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 1080000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/vg7sPhgWiPr0L2cK_NLLcCl0mrkEmNNv7C-aUkBdIUEa-9uSnCi5x4z_3Mw0vNYWKoSVWHfgri7THMOsOZKQuA=s512-rw",
+    "title": "Perplexity - AI Productivity Tool",
+    "companyName": "Perplexity AI",
+    "id": 4,
+    "description": "Perplexity is an AI-powered search and knowledge assistant designed to help users discover information quickly and efficiently. Unlike traditional search engines that provide lists of links, Perplexity offers direct answers accompanied by references and sources, making it easier for users to verify information and continue their research. The application is popular among students, researchers, professionals, and curious learners who require accurate and organized responses. Users can ask questions in natural language and receive comprehensive explanations across a wide variety of topics, including science, technology, history, education, business, and current events. Students use Perplexity to understand concepts, gather information, and summarize materials for assignments. Professionals rely on the app to explore industry trends, conduct research, and make informed decisions. Developers and technical users benefit from explanations of programming topics, software concepts, and emerging technologies. The application supports conversational interactions, allowing users to ask follow-up questions and refine searches without losing context. Perplexity emphasizes transparency by providing citations and references that help users verify the information presented. Its clean and modern interface offers a smooth experience for users who want fast access to knowledge. The company regularly updates the application with improved AI models and new features to enhance performance and reliability. Content creators and writers also use Perplexity to gather information and discover ideas for articles and projects. The app supports multiple languages and aims to make information discovery more efficient for people around the world. Through its combination of AI capabilities and source-based answers, Perplexity has established itself as one of the most innovative AI search applications available on the Google Play Store.",
+    "size": 42,
+    "reviews": 370000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 7400 },
+      { "name": "2 star", "count": 11100 },
+      { "name": "3 star", "count": 22200 },
+      { "name": "4 star", "count": 74000 },
+      { "name": "5 star", "count": 255300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/9Q5je4kYh5EVvDLJSp20Vr6fFZB6qWAF0EtXj37o2h8yzD6vuvwa4fph83q7uIHkMQ7O=w480-h960-rw",
+    "title": "PUBG MOBILE - Online Top Game",
+    "companyName": "Level Infinite",
+    "id": 5,
+    "description": "PUBG MOBILE is one of the most popular battle royale games available on the Google Play Store. Developed by Level Infinite, the game delivers a competitive multiplayer experience where players are dropped onto large maps and compete to become the last survivor. Players can choose from various game modes, including classic battle royale, team deathmatch, payload mode, and limited-time events that introduce unique gameplay mechanics. The game offers realistic graphics, immersive sound effects, and smooth controls optimized for mobile devices. Users can play solo, with friends, or as part of a squad while communicating through built-in voice chat features. PUBG MOBILE features a wide range of weapons, vehicles, equipment, and customization options that allow players to develop their own playstyles. Frequent updates introduce new maps, themes, collaborations, and seasonal content to keep the gameplay fresh and engaging. Competitive players can climb ranked ladders and participate in tournaments while casual users enjoy quick matches and social interactions. The game supports a large global player community and provides various reward systems, including battle passes and in-game achievements. Customization options for characters, outfits, weapon skins, and emotes allow players to personalize their experience. PUBG MOBILE also includes training modes and tutorials for beginners who want to improve their skills. Millions of players worldwide enjoy the game because of its combination of strategy, teamwork, survival mechanics, and action-packed gameplay. Through regular updates and a vibrant esports ecosystem, PUBG MOBILE continues to remain one of the most downloaded and recognized mobile games in the world.",
+    "size": 1200,
+    "reviews": 46000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2760000 },
+      { "name": "2 star", "count": 2300000 },
+      { "name": "3 star", "count": 4600000 },
+      { "name": "4 star", "count": 11500000 },
+      { "name": "5 star", "count": 24840000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ=s512-rw",
+    "title": "Clash of Clans - Online Top Game",
+    "companyName": "Supercell",
+    "id": 6,
+    "description": "Clash of Clans is a strategy game developed by Supercell that combines village building, resource management, and multiplayer battles. Players begin with a small settlement and gradually expand it by constructing buildings, upgrading defenses, and training powerful armies. The game encourages strategic thinking as players must balance offensive and defensive capabilities while managing resources efficiently. Users can attack enemy villages to earn rewards and protect their own bases from incoming attacks. One of the most popular features of Clash of Clans is the clan system, where players can join communities, donate troops, and participate in cooperative clan wars. Clan War Leagues and Clan Games provide additional challenges and rewards that encourage teamwork and long-term engagement. The game offers a variety of troops, heroes, spells, and siege machines, allowing players to experiment with different battle strategies. Supercell frequently introduces updates that add new content, balance changes, and special events. The colorful graphics and intuitive controls make the game accessible to players of all ages. Competitive players strive to climb leaderboards and improve their rankings, while casual users enjoy building and customizing their villages at their own pace. The Builder Base and Capital Peak modes add further depth to the gameplay experience. Clash of Clans has developed a strong international community and remains one of the most successful mobile strategy games ever created. Its combination of resource management, social interaction, and tactical combat has attracted hundreds of millions of players worldwide. Continuous support from the developers and regular content updates have helped the game maintain its popularity for many years.",
+    "size": 350,
+    "reviews": 62000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1860000 },
+      { "name": "2 star", "count": 2480000 },
+      { "name": "3 star", "count": 6200000 },
+      { "name": "4 star", "count": 15500000 },
+      { "name": "5 star", "count": 35960000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM=s512-rw",
+    "title": "Candy Crush Saga - Online Top Game",
+    "companyName": "King",
+    "id": 7,
+    "description": "Candy Crush Saga is a highly popular puzzle game developed by King that challenges players to match colorful candies and complete objectives across thousands of levels. The game is known for its simple mechanics, vibrant visuals, and highly addictive gameplay that appeals to players of all ages. Each level introduces unique goals and obstacles that require planning and strategic thinking. Players can create special candies and combinations to clear difficult sections and earn higher scores. The game features numerous events, seasonal activities, and reward systems that encourage users to return regularly. Candy Crush Saga provides a relaxing and enjoyable experience while gradually increasing the complexity of puzzles. Users can connect with friends, compare scores, and exchange lives through social features. New levels are frequently added, ensuring that long-term players always have fresh content to explore. The game includes boosters and power-ups that help users overcome challenging stages and progress faster. Its colorful animations and cheerful sound effects contribute to a fun and engaging atmosphere. Casual gamers appreciate the ability to play short sessions, making it suitable for breaks and leisure time. The game's intuitive design allows new players to learn quickly while offering enough variety to maintain long-term interest. Candy Crush Saga has become one of the most successful mobile puzzle games in history, attracting players from around the world. Through continuous updates and creative level designs, the game continues to provide entertaining experiences to millions of users. Its blend of accessibility, progression, and rewarding gameplay has made it a lasting favorite on mobile devices.",
+    "size": 100,
+    "reviews": 38000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1140000 },
+      { "name": "2 star", "count": 1520000 },
+      { "name": "3 star", "count": 3800000 },
+      { "name": "4 star", "count": 9500000 },
+      { "name": "5 star", "count": 22040000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/rIMQN2JTiHSCj7IezGHkhE39-F66y3Epqlt-iyvveGzT5n0CPOrYDpSePQ7rZBvMJRY=s512-rw",
+    "title": "Subway Surfers - Online Top Game",
+    "companyName": "SYBO Games",
+    "id": 8,
+    "description": "Subway Surfers is an endless runner game developed by SYBO Games that has become one of the most downloaded mobile games in the world. Players take control of energetic characters who race through colorful environments while avoiding obstacles and collecting coins. The gameplay is simple and easy to understand, making it accessible to players of all ages. Users can swipe left, right, up, and down to dodge trains, jump over barriers, and slide under obstacles while attempting to achieve high scores. The game features vibrant graphics, smooth animations, and exciting sound effects that contribute to an enjoyable experience. Regular updates introduce new cities, themed events, and limited-time challenges inspired by locations around the world. Players can unlock new characters, hoverboards, outfits, and upgrades that add variety and customization to the game. Missions and daily challenges provide additional objectives and rewards, encouraging continued play. Competitive users aim to set personal records and compare scores with friends and global leaderboards. Subway Surfers also includes special power-ups and boosters that enhance gameplay and help players travel farther. The game's quick sessions make it ideal for casual entertainment during short breaks. Millions of players appreciate its colorful design, fast-paced action, and rewarding progression system. Over the years, Subway Surfers has maintained its popularity through frequent content updates and engaging events. Its simple controls and universally appealing gameplay have made it one of the most recognizable endless runner games available on Android devices. The combination of accessibility, excitement, and continuous updates has helped Subway Surfers remain a favorite among mobile gamers worldwide.",
+    "size": 180,
+    "reviews": 42000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1260000 },
+      { "name": "2 star", "count": 1680000 },
+      { "name": "3 star", "count": 4200000 },
+      { "name": "4 star", "count": 10500000 },
+      { "name": "5 star", "count": 24360000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo=s512-rw",
+    "title": "Facebook - Top Social Media",
+    "companyName": "Meta Platforms",
+    "id": 9,
+    "description": "Facebook is one of the largest and most influential social networking platforms in the world, developed by Meta Platforms. The app allows users to connect with friends, family, communities, and businesses through posts, messages, groups, pages, and events. Users can share text updates, photos, videos, and links, creating a personalized social feed that reflects their interests and connections. The platform also supports real-time communication through Messenger integration, enabling instant messaging, voice calls, and video calls. Facebook is widely used for both personal and professional networking, as it provides tools for building communities, promoting businesses, and engaging with audiences. Users can join groups based on shared interests, follow public pages, and participate in discussions across various topics such as education, entertainment, technology, sports, and lifestyle. The platform also offers marketplace features where users can buy and sell items locally. Facebook's algorithm personalizes content based on user behavior, making the experience more relevant and engaging over time. Businesses use Facebook for advertising, customer engagement, and brand awareness through targeted ads and analytics tools. The app includes features like live streaming, stories, reels, and event management, making it a versatile platform for digital interaction. Security and privacy controls allow users to manage their data and customize their experience. With billions of users worldwide, Facebook remains a central hub for online social interaction. Continuous updates and feature expansions ensure that the platform stays relevant in the evolving digital landscape, supporting communication, entertainment, and community building across the globe.",
+    "size": 95,
+    "reviews": 145000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10150000 },
+      { "name": "2 star", "count": 7250000 },
+      { "name": "3 star", "count": 14500000 },
+      { "name": "4 star", "count": 36250000 },
+      { "name": "5 star", "count": 76850000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s512-rw",
+    "title": "Instagram - Top Social Media",
+    "companyName": "Meta Platforms",
+    "id": 10,
+    "description": "Instagram is a popular social media platform developed by Meta Platforms that focuses on photo and video sharing. It allows users to express themselves visually through posts, stories, reels, and live videos. The app has become a major platform for personal branding, content creation, and digital marketing. Users can follow friends, celebrities, influencers, and businesses to explore curated content tailored to their interests. Instagram's feed algorithm prioritizes engaging and relevant content, making the user experience highly personalized. The platform includes direct messaging features that allow private communication between users. Instagram Reels provides short-form video content similar to modern entertainment trends, while Stories allow temporary updates that disappear after 24 hours. The app is widely used by influencers and creators to build audiences and monetize content through brand collaborations and sponsorships. Businesses use Instagram for advertising, product promotion, and customer engagement through visually appealing content. Editing tools, filters, and effects help users enhance their photos and videos easily. Instagram also supports shopping features, enabling users to discover and purchase products directly through the app. The platform encourages creativity, storytelling, and community interaction across global audiences. With billions of active users, Instagram plays a major role in shaping modern digital culture. Continuous updates introduce new features that enhance user engagement and content creation capabilities. Its focus on visual communication has made it one of the most influential social media platforms in the world, widely used for entertainment, marketing, and personal expression.",
+    "size": 88,
+    "reviews": 160000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4800000 },
+      { "name": "2 star", "count": 6400000 },
+      { "name": "3 star", "count": 16000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 92800000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo=s512-rw",
+    "title": "Snapchat - Top Social Media",
+    "companyName": "Snap Inc.",
+    "id": 11,
+    "description": "Snapchat is a social media application developed by Snap Inc. that focuses on instant communication through photos, videos, and messages that disappear after being viewed. The app introduced the concept of ephemeral content, which has become a major trend in modern social media. Users can send snaps to friends, post stories that last 24 hours, and engage in private conversations. Snapchat also features a variety of creative tools, including filters, lenses, augmented reality effects, and stickers that enhance user expression. The app is widely used by younger audiences who prefer fast, casual, and visual communication. Snapchat's Discover section allows users to explore news, entertainment, and content from creators and media publishers. Snap Map enables users to share their location and explore content from around the world. The platform supports voice and video calling, making it a complete communication tool. Businesses and influencers use Snapchat for marketing campaigns, brand engagement, and audience interaction. The app continuously introduces new AR-based features that enhance creativity and user experience. Privacy and control are key aspects of Snapchat, giving users control over who can view their content. The interface is designed for quick interactions, making communication simple and engaging. Millions of users rely on Snapchat for daily communication and entertainment. Its innovative features and focus on real-time sharing have made it a unique and influential platform in the social media landscape. Regular updates and creative tools ensure that Snapchat remains relevant in the fast-evolving digital communication space.",
+    "size": 110,
+    "reviews": 36000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3240000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 3600000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 18360000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/sUXm7uP_c8ysJqwOkbmIpBnDee_6lJJCPODRP4DOCuFWp9Gq-_X_oqY9NTJ2OIEGtQ=s512-rw",
+    "title": "TikTok - Top Social Media",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 12,
+    "description": "TikTok is a short-form video sharing platform developed by TikTok Pte. Ltd. that allows users to create, watch, and share engaging video content. The app has become one of the most popular social media platforms globally due to its highly personalized content recommendation system. Users can browse an endless feed of videos tailored to their interests, including entertainment, education, lifestyle, comedy, and music. TikTok provides powerful editing tools, effects, filters, and sound libraries that enable creators to produce high-quality videos directly from their mobile devices. The platform is widely used by influencers, content creators, and businesses to reach large audiences and grow their online presence. TikTok's algorithm analyzes user behavior to deliver highly relevant content, making the app extremely engaging and addictive for many users. Features such as duets, stitches, and live streaming allow users to interact creatively with others. The app has played a major role in shaping internet trends, viral challenges, and digital culture worldwide. Businesses use TikTok for marketing campaigns, product promotions, and brand storytelling. Educational creators also use the platform to share knowledge in short, engaging formats. The app supports community interaction through comments, likes, and shares, encouraging active participation. TikTok continues to expand its features, including e-commerce integration and monetization tools for creators. With billions of downloads and a massive global user base, TikTok has transformed how people consume and create content. Its combination of entertainment, creativity, and algorithm-driven personalization makes it one of the most influential apps in modern social media history.",
+    "size": 105,
+    "reviews": 68000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4080000 },
+      { "name": "2 star", "count": 3400000 },
+      { "name": "3 star", "count": 6800000 },
+      { "name": "4 star", "count": 17000000 },
+      { "name": "5 star", "count": 36720000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/js9LcEDMPaWBLW-kX6zrCxVwKDKTsvQRgIubQnZB0wQs4NfNcxPkNlXQOpIDXKX0y5Y=s512-rw",
+    "title": "Habitica - Productivity Growth App",
+    "companyName": "HabitRPG Inc.",
+    "id": 13,
+    "description": "Habitica is a unique habit tracking and productivity application that turns daily tasks, habits, and goals into a role-playing game (RPG) experience. Developed by HabitRPG Inc., the app is designed to motivate users by rewarding positive behavior and penalizing missed tasks in a gamified system. Users create a personalized avatar that gains experience points, levels up, and earns rewards as they complete real-life tasks such as studying, exercising, working, or maintaining routines. The application divides activities into three main categories: Habits, Dailies, and To-Dos. Habits are flexible behaviors that can be good or bad, Dailies are recurring tasks that must be completed regularly, and To-Dos are one-time tasks. By completing tasks, users earn in-game currency called gold, which can be used to purchase virtual rewards or custom incentives. If users fail to complete tasks, their avatar loses health points, adding accountability and motivation. Habitica also includes social features such as parties, guilds, and group challenges, allowing users to collaborate with others, join communities, and participate in cooperative quests. This social accountability system increases motivation and encourages consistency. The app is widely used by students, professionals, and individuals seeking to improve productivity, build discipline, and develop better lifestyle habits. Habitica supports customization, allowing users to tailor their experience based on personal goals and preferences. It also offers integration with productivity tools and reminders to help users stay on track. With its engaging RPG-style design and strong community support, Habitica transforms everyday task management into an interactive and enjoyable experience that encourages long-term habit formation and personal growth.",
+    "size": 30,
+    "reviews": 250000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 7500 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 62500 },
+      { "name": "5 star", "count": 145000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/gGHaWnV9n3EK0jpJ_yessWA1PF6mcL7Ys41mBPTCTXtusf13Yr2zVpVYAOI69ZX2Gjc=s512-rw",
+    "title": "Loop Habit Tracker - Productivity Growth App",
+    "companyName": "Loop App Team",
+    "id": 14,
+    "description": "Loop Habit Tracker is a simple, lightweight, and open-source application designed to help users build and maintain positive habits in their daily lives. The app focuses on minimalism and effectiveness, providing a clean interface that allows users to track habits without distractions. Users can create custom habits such as exercising, reading, drinking water, studying, or meditating, and mark them as completed each day. The application uses a statistical system to analyze habit strength and consistency over time, helping users visualize their progress through charts and history logs. One of the key strengths of Loop Habit Tracker is its offline functionality, ensuring user data remains private and stored locally on the device. The app provides reminders and notifications to help users stay consistent with their habits. Unlike more gamified systems, Loop focuses on data-driven motivation, showing long-term streaks and completion rates to encourage discipline. Users can categorize habits, set goals, and adjust difficulty levels based on personal progress. The app is widely appreciated for its simplicity, efficiency, and lack of advertisements, making it ideal for users who prefer a distraction-free experience. Students, professionals, and self-improvement enthusiasts use Loop Habit Tracker to develop routines and improve productivity. Its open-source nature also allows transparency and community contributions, ensuring continuous improvement. By emphasizing consistency and measurable progress, Loop Habit Tracker helps users build long-lasting habits and improve their lifestyle in a structured and effective way.",
+    "size": 12,
+    "reviews": 80000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 1600 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 14400 },
+      { "name": "5 star", "count": 59200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/JkYolPNuRAlrXEI9vlk-XOid3VFJ0IPjDj2eM_xrriuE3Zu8IX9cuMkI7JOTw1upNxbW=s512-rw",
+    "title": "TickTick - Productivity Growth App",
+    "companyName": "Appest Inc.",
+    "id": 15,
+    "description": "TickTick is a powerful productivity and habit tracking application developed by Appest Inc. that combines task management, calendar scheduling, and habit tracking into a single platform. The app is designed to help users organize their daily lives, manage responsibilities, and build consistent routines. Users can create tasks, set deadlines, assign priorities, and organize their work using lists and folders. The built-in habit tracker allows users to define personal goals such as exercising, reading, or learning new skills and track their consistency over time. TickTick includes a calendar view that integrates tasks and habits, helping users visualize their schedules effectively. The app supports reminders, recurring tasks, and notifications to ensure users stay on track with their responsibilities. One of its key strengths is cross-platform synchronization, allowing users to access their tasks and habits across multiple devices. TickTick also includes features like Pomodoro timers, focus mode, and productivity statistics to help users improve concentration and efficiency. The app is widely used by students, professionals, and freelancers who need structured organization tools for daily life. Collaboration features allow users to share lists and work with teams or family members. The interface is clean and customizable, providing both simplicity for beginners and advanced features for power users. TickTick helps users balance productivity and personal development by combining task execution with habit formation. Its versatility and feature-rich design make it one of the most popular productivity apps available on mobile devices.",
+    "size": 45,
+    "reviews": 160000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 3200 },
+      { "name": "2 star", "count": 4800 },
+      { "name": "3 star", "count": 9600 },
+      { "name": "4 star", "count": 32000 },
+      { "name": "5 star", "count": 110400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8LcZqMnR6O5GhCMSmH2AC06gucX-PDIxwaui_ICMs44IJXSUO8w7-Fr3eLYw8xfZ2Q4=s512-rw",
+    "title": "Fabulous - Productivity Growth App",
+    "companyName": "TheFabulous",
+    "id": 16,
+    "description": "Fabulous is a science-based habit building and self-improvement application designed to help users develop healthy routines and improve their overall lifestyle. Developed by TheFabulous, the app uses behavioral psychology principles to guide users through structured journeys that focus on wellness, productivity, and personal growth. The application encourages users to build habits step-by-step by following daily rituals such as drinking water in the morning, exercising regularly, improving sleep quality, and practicing mindfulness. Each journey is carefully designed to help users gradually adopt positive behaviors without feeling overwhelmed. The app uses reminders, coaching messages, and motivational content to keep users engaged and consistent. Fabulous also includes guided meditations, focus exercises, and productivity sessions that help improve mental clarity and emotional well-being. Users can track their progress and celebrate milestones as they complete habit-building programs. The app is widely used by individuals seeking to improve fitness, mental health, productivity, and overall life balance. Its visually appealing design and structured approach make it easy for users to follow routines and stay motivated. Fabulous also provides personalized recommendations based on user behavior and goals. By combining psychology, coaching, and habit tracking, the app helps users transform their daily routines into long-term positive habits. It is especially popular among users who want guided support in building discipline and improving lifestyle quality. With continuous updates and new programs, Fabulous remains a leading application in the self-care and habit-building category.",
+    "size": 80,
+    "reviews": 620000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 18600 },
+      { "name": "2 star", "count": 24800 },
+      { "name": "3 star", "count": 62000 },
+      { "name": "4 star", "count": 155000 },
+      { "name": "5 star", "count": 359600 }
+    ]
+  }
+]
