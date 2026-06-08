@@ -10,7 +10,7 @@ const AppDetails = () => {
   const clickedApp = allApps.find((app) => app.id === clickedAppId);
   const { description, ratings } = clickedApp;
   return (
-    <div className="container px-4 md:px-0 py-10">
+    <div className="container px-4 lg:px-0 py-10">
       <AppDetailsCard app={clickedApp}></AppDetailsCard>
       <RatingsStat ratings={ratings} />
       <AppDescription description={description} />

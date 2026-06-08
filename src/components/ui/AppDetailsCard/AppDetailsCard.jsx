@@ -9,7 +9,7 @@ const AppDetailsCard = ({ app }) => {
 
   return (
     <div className="flex flex-col md:items-stretch md:flex-row md:gap-12 pb-10 mb-10 border-b border-b-[#627382]">
-      <div className="md:w-80 p-10 rounded-lg bg-white">
+      <div className="md:w-80 p-6 rounded-lg bg-white">
         <img
           className="rounded-lg w-full h-full object-cover"
           src={image}
@@ -22,7 +22,7 @@ const AppDetailsCard = ({ app }) => {
           Developed by{" "}
           <span className="font-bold gradient-title">{companyName}</span>
         </h2>
-        <div className="flex justify-start text-center md:text-left gap-15">
+        <div className="flex justify-center md:justify-start text-center md:text-left gap-15">
           <div className="flex flex-col gap-3">
             <img className="w-10 mx-auto md:mx-0" src={downloadIcon} alt="" />
             <h3 className="text-[#001931] grow">Downloads</h3>

@@ -8,11 +8,11 @@ const Home = () => {
 
   return (
     <>
-      <div className="container px-4 md:px-0">
+      <div className="container px-4 lg:px-0">
         <Hero></Hero>
       </div>
       <Banner></Banner>
-      <div className="container px-4 md:px-0">
+      <div className="container px-4 lg:px-0">
         <TrendingApps appData={appData}></TrendingApps>
       </div>
     </>

@@ -6,10 +6,10 @@ const Apps = () => {
   const totalApps = allApps.length;
 
   return (
-    <div className="container px-4 md:px-0">
+    <div className="container px-4 lg:px-0">
       <div className="mt-10 mb-8 text-center">
         <h1 className="mb-3 font-bold text-4xl">Our All Applications</h1>
-        <p className="px-5 md:px-0">
+        <p className="px-5 lg:px-0">
           Explore All Apps on the Market developed by us. We code for Millions
         </p>
       </div>
