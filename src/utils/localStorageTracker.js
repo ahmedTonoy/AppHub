@@ -17,7 +17,10 @@ export const updateLs = (id) => {
   const existingData = getFromLs();
   if(!existingData.includes(id)) {
     existingData.push(id);
-    const newLsData = JSON.stringify(existingData);
-    localStorage.setItem('installed', newLsData);
+    const updatedLsData = JSON.stringify(existingData);
+    localStorage.setItem('installed', updatedLsData);
+  } else if(existingData.includes(id)) {
+    const updatedLsData = JSON.stringify(existingData.filter(item => item !== id));
+    localStorage.setItem('installed', updatedLsData);
   }
 };
