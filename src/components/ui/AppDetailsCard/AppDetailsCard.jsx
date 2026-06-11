@@ -29,13 +29,13 @@ const AppDetailsCard = ({ app }) => {
           alt=""
         />
       </div>
-      <div className="flex-1">
+      <div className="md:flex-1">
         <h1 className="font-extrabold text-4xl mt-5 md:mt-0 mb-2">{title}</h1>
         <h2 className="text-xl text-[#627382] pb-7 mb-10 border-b border-b-[#627382]">
           Developed by{" "}
           <span className="font-bold gradient-title">{companyName}</span>
         </h2>
-        <div className="flex justify-center md:justify-start text-center md:text-left gap-15">
+        <div className="flex justify-center md:justify-start text-center md:text-left gap-4 md:gap-15">
           <div className="flex flex-col gap-3">
             <img className="w-10 mx-auto md:mx-0" src={downloadIcon} alt="" />
             <h3 className="text-[#001931] grow">Downloads</h3>
