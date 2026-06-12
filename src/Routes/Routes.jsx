@@ -24,18 +24,28 @@ export const router = createBrowserRouter([
         loader: () => fetch("/appData.json"),
         Component: Apps,
         HydrateFallback: LoadingSpinner,
+        handle: { title: "All Apps | HERO IO" },
       },
       {
         path: "installation",
         loader: () => fetch("/appData.json"),
         Component: InstalledApps,
         HydrateFallback: LoadingSpinner,
+        handle: { title: "Installed Apps | HERO IO" },
       },
       {
         path: "appDetails/:id",
         loader: () => fetch("/appData.json"),
         Component: AppDetails,
         HydrateFallback: LoadingSpinner,
+        handle: {
+          title: (match) => {
+            const app = match.data.find(
+              (app) => app.id === Number(match.params.id),
+            );
+            return app ? `${app.title} | HERO IO` : "App Details | HERO IO";
+          },
+        },
       },
     ],
   },
